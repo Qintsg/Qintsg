@@ -64,11 +64,6 @@ Personal Platform     Content System / Tool Hub / Automation / Documentation
 ## GitHub Activity / GitHub 动态
 
 <p align="center">
-  <img height="165" alt="Qintsg GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Qintsg&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" alt="Qintsg top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qintsg&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
   <img alt="Qintsg GitHub streak" src="https://streak-stats.demolab.com?user=Qintsg&theme=transparent&hide_border=true" />
 </p>
 
