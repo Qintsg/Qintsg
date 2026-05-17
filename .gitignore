@@ -1,0 +1,49 @@
+# 操作系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 编辑器与 IDE 本地配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 日志与临时文件
+*.log
+logs/
+*.tmp
+*.temp
+.cache/
+.tmp/
+
+# 环境变量与本地密钥
+.env
+.env.*
+!.env.example
+*.local
+
+# Node.js 依赖与构建产物
+node_modules/
+dist/
+build/
+coverage/
+.nyc_output/
+
+# Python 缓存与虚拟环境
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# 压缩包与生成物
+*.zip
+*.tar
+*.tar.gz
+*.tgz
